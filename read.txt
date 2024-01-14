@@ -9,3 +9,7 @@ changes added
 git rm:
 this is used to delete whole file from staging area
 Adding to working area
+
+hi
+350199c7a622a54e2cbcf3c5df1e49ffb92a4a10
+69113c6167dc488f979c28bfea17e105800efd1a
