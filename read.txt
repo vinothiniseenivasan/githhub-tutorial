@@ -1,2 +1,6 @@
 git init -> its used to intialize the git-demo folder inside githhub
 its creating .git folder its is invisible
+hi
+hoe
+hello
+vinothini
