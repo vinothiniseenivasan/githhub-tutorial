@@ -6,3 +6,6 @@ hello
 vinothini
 
 changes added
+git rm:
+this is used to delete whole file from staging area
+Adding to working area
