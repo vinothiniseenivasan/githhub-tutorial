@@ -29,3 +29,6 @@ i am fine
 
 i making changes in git repo
 now 
+
+a book or other written or printed work, regarded in terms of its content rather than its physical form.
+"a text which explores pain and grief"
