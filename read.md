@@ -17,7 +17,11 @@ this is first and second commit id's
 
 njoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 a bunch of texts' is a correct and usable phrase in written English. You can use it to refer to a group of text messages or other written documents. For example, "I received a bunch of texts from my friends about the party.".
-
+changes:/
+a book or other written or printed work, regarded in terms of its content rather than its physical form.
+"a text which explores pain and grief"
+a book or other written or printed work, regarded in terms of its content rather than its physical form.
+"a text which explores pain and grief"
 
 hi hot
 hoe a re u
