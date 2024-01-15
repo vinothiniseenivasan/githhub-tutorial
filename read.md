@@ -22,3 +22,6 @@ a bunch of texts' is a correct and usable phrase in written English. You can use
 hi hot
 hoe a re u
 i am fine
+
+i making changes in git repo
+now 
